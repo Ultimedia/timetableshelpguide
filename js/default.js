@@ -27,6 +27,6 @@ $(document).ready(function(){
   $("html").removeClass('no-js').addClass('js');
 
   // Other initiations go here within the document ready...
-    
+  
 
 }); // end document ready
